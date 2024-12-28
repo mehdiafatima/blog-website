@@ -28,11 +28,7 @@ const Footer = () => {
                   About
                 </a>
               </li>
-              <li className="mb-2">
-                <a href="/blog" className="hover:underline text-gray-300">
-                  Blog
-                </a>
-              </li>
+          
               <li>
                 <a href="/contact" className="hover:underline text-gray-300">
                   Contact
@@ -44,17 +40,17 @@ const Footer = () => {
           <div className="lg:w-1/3">
             <h4 className="text-2xl font-semibold mb-4">Contact</h4>
             <p className="text-gray-300 mb-2">
-              <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
-              <a href="mehefaizi@gmail.com" className="hover:underline">
-              mehefaizi@gmail.com
+              <FontAwesomeIcon icon={faEnvelope} className="mr-2 text-base sm:text-lg" />
+              <a href="mailto:mehefaizi@gmail.com" className="hover:underline">
+                mehefaizi@gmail.com
               </a>
             </p>
             <p className="text-gray-300 mb-2">
-              <FontAwesomeIcon icon={faPhone} className="mr-2" />
+              <FontAwesomeIcon icon={faPhone} className="mr-2 text-base sm:text-lg" />
               000099999
             </p>
             <p className="text-gray-300">
-              <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2" />
+              <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2 text-base sm:text-lg" />
               Karachi, Pakistan
             </p>
           </div>

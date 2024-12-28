@@ -56,9 +56,7 @@ const Navbar: React.FC = () => {
           <Link href="/aboutpage" className="hover:scale-105 hover:font-semibold transition-transform duration-300 text-purple-500">
             About
           </Link>
-          <Link href="/blog" className="hover:scale-105 hover:font-semibold transition-transform duration-300 text-purple-500">
-            Blog
-          </Link>
+        
           <Link href="/contact" className="hover:scale-105 hover:font-semibold transition-transform duration-300 text-purple-500">
             Contact
           </Link>
@@ -86,7 +84,7 @@ const Navbar: React.FC = () => {
                   <div className="flex flex-col gap-6 text-purple-500 ">
                     <Link href="/">Home</Link>
                     <Link href="/aboutpage">About</Link>
-                    <Link href="/blog">Blog</Link>
+                
                     <Link href="/contact">Contact</Link>
                     <div>
                     

@@ -13,9 +13,21 @@ const posts = [
     date: "26.12.2024",
     category: "by-SoulWrites",
     image: "/routine.jpeg",
-
-    content:
-      "Starting your day in the right way can make all the difference in how the rest of your day unfolds. A positive and productive morning sets the tone for success, and it doesn’t require a major overhaul. First, hydration is key. Drinking water first thing in the morning replenishes the body after hours of sleep and helps jumpstart your metabolism. Next, add a bit of stretching to get your body moving. A quick 5-minute stretch can increase blood circulation and give you a burst of energy. Don’t skip breakfast, either. Eating a balanced meal that includes protein, healthy fats, and fiber helps maintain energy levels. Take a few minutes to set your intentions for the day. Visualize your goals and imagine a successful day. Lastly, avoid jumping straight into emails or social media; instead, give yourself the first 30 minutes of your day to focus on yourself before diving into the digital world. Incorporating these small habits into your morning routine can help you feel more focused and energized.",
+    content: `
+      Starting your day in the right way can significantly impact how the rest of your day unfolds. A positive and productive morning sets the tone for success, and it doesn’t have to involve a complicated routine. Small, intentional habits can make a world of difference in how you feel and perform throughout the day.
+  
+      First, hydration is essential. Drinking water first thing in the morning helps replenish the body after hours of sleep and jumpstarts your metabolism. Hydration improves brain function, boosts your energy levels, and supports overall health, so make it a priority as soon as you wake up.
+  
+      Next, add some light stretching or a short morning exercise to get your body moving. Just 5 to 10 minutes of stretching can increase blood circulation, relieve tension, and give you an energy boost. It doesn’t need to be a full workout—simple stretches or yoga poses can work wonders in getting your body and mind awake.
+  
+      Don’t skip breakfast. A balanced breakfast that includes protein, healthy fats, and fiber is crucial for maintaining energy levels throughout the morning. It fuels your body and prevents mid-morning crashes. Whether it’s oatmeal with nuts, a smoothie with greens, or eggs and whole-grain toast, make sure you nourish yourself.
+  
+      Take a few minutes to set your intentions for the day. Reflect on your goals and visualize a successful day. This practice helps you stay focused and aligned with your purpose. Whether through journaling, deep breathing, or meditation, setting a positive intention can create a mindset of success that carries you through the day.
+  
+      Lastly, avoid diving straight into emails or social media. The first 30 minutes of your day should be dedicated to yourself, free from distractions. This time can be used for reflection, a morning walk, or simply enjoying a quiet moment before the busyness of the day begins. Giving yourself this space ensures that you start the day grounded and focused.
+  
+      Incorporating these simple habits into your morning routine can help you feel more energized, focused, and ready to take on the day. By taking control of the morning, you set the tone for a productive and positive day ahead.
+    `
   },
 
   {
@@ -26,9 +38,21 @@ const posts = [
     date: "23.12.2024",
     category: "by-SoulWrites",
     image: "/spcae.webp",
-
-    content:
-      "A cluttered environment can make it hard to focus and can even contribute to stress. However, tackling your space doesnt need to be overwhelming. You can start by dedicating just 10 minutes a day to decluttering. Begin with one area at a time. Whether its your desk, kitchen counter, or living room, focusing on small sections makes the task feel more manageable. Next, eliminate unnecessary items. Old receipts, broken items, or expired food only take up space and add to the mess. After that, group similar items together. Organizing books, papers, or kitchen tools in a cohesive way helps make your space look tidier. For quick fixes, use baskets or trays to corral scattered items. And finally, at the end of your 10-minute session, do a quick sweep to make sure everything looks neat and tidy. By sticking to this short and simple routine, youll notice how much easier it becomes to maintain a clean and organized space.",
+    content: `
+      A cluttered environment can often leave us feeling anxious, stressed, and distracted. But the idea of tackling an entire space might seem overwhelming. The good news is, you don't need hours to declutter—just 10 minutes a day can make a huge difference. 
+  
+      Start small and focus on one area at a time. Whether it's your desk, a kitchen counter, or the entryway, breaking the task into manageable sections makes it less intimidating. You’ll start seeing results right away, which can motivate you to continue. 
+  
+      Begin by eliminating unnecessary items. Go through things like old receipts, broken objects, or expired products—these contribute nothing but chaos and take up valuable space. By clearing them out, you immediately create a sense of order. 
+  
+      Group similar items together to maintain organization. Organize your books, papers, kitchen utensils, or even your wardrobe by category. This not only makes it easier to find things but also visually tidies up your space. 
+  
+      For quick fixes, use containers like baskets, trays, or storage boxes. These can help corral scattered items and make things look more organized without a lot of effort. Having a dedicated space for everything can also reduce the chances of clutter accumulating.
+  
+      Finally, end your 10-minute decluttering session with a quick sweep of the area. Put things back in their designated places and wipe down surfaces if needed. This step can give you a sense of accomplishment and ensure the space stays tidy for longer.
+  
+      By committing just 10 minutes each day, you’ll notice how much easier it becomes to maintain a clean and organized space. Not only does this improve the aesthetics of your home, but it also helps clear your mind. A clutter-free environment promotes productivity, reduces stress, and enhances your overall well-being. With this simple daily routine, you can create a peaceful, organized space without feeling overwhelmed.
+    `
   },
   {
     id: "4",
@@ -38,9 +62,96 @@ const posts = [
     date: "15.12.2024",
     category: "by-SoulWrites",
     image: "/thankyou.jpg",
-    content:
-      "Practicing gratitude is one of the simplest yet most powerful ways to boost your mental well-being and improve your outlook on life. Gratitude has been shown to reduce stress, increase happiness, and even strengthen relationships. A great way to start is by keeping a gratitude journal. Write down three things youre thankful for every day. These can be as simple as a delicious cup of coffee or a kind gesture from a friend. Another way to practice gratitude is to say 'thank you' more often. Whether its for a small favor or a major help, expressing appreciation not only makes the recipient feel good but also reinforces positive feelings within yourself. Focus on the small moments that might otherwise go unnoticed, like a warm shower or the beauty of nature around you. Even on difficult days, try to find something positive, as it shifts your perspective. Finally, take a moment to share your gratitude with others, whether its through a thank-you note or a quick message. This practice not only brightens their day but also strengthens your connections. Gratitude can truly change your life by fostering positivity, reducing stress, and nurturing relationships.",
+    content: `
+      Gratitude is a simple yet transformative practice that can have a profound impact on your life. Studies have shown that people who regularly practice gratitude experience lower levels of stress, improved mood, and better overall well-being. It's a powerful tool for shifting your focus from what you lack to what you have, fostering a sense of abundance and positivity.
+  
+      One of the most effective ways to start practicing gratitude is by keeping a gratitude journal. Each day, take a moment to write down at least three things you're thankful for. These can be as small as the warmth of the sun on your face, a kind gesture from a friend, or a moment of peace in your day. The key is to recognize and appreciate the good things, no matter how minor they seem.
+  
+      In addition to journaling, make a conscious effort to say "thank you" more often. Whether it's thanking someone for holding the door open, expressing appreciation for help at work, or simply acknowledging someone's kindness, expressing gratitude reinforces positive emotions for both you and the recipient. It helps build stronger, more meaningful connections and creates a culture of kindness and mutual respect.
+  
+      Gratitude isn't just about the big moments—it's also about the small, everyday things that can often go unnoticed. Take a moment to savor simple pleasures, like a warm cup of coffee in the morning, the sound of rain, or the beauty of nature. These small moments of gratitude can lift your spirits and help you find joy in the present, even during challenging times.
+  
+      On days when you're feeling down, practicing gratitude can be especially powerful. It helps shift your perspective from what isn't going well to what is going well, even if it's just one small thing. Focusing on gratitude can help you feel more grounded, reduce anxiety, and increase feelings of contentment.
+  
+      Finally, take the time to share your gratitude with others. A thank-you note, a quick text message, or simply expressing your appreciation face-to-face can brighten someone's day and strengthen your relationships. Gratitude has a ripple effect—when you express it, it not only uplifts you but also uplifts those around you.
+  
+      By practicing gratitude every day, you can change your outlook on life, reduce stress, and improve your overall happiness. It’s a simple yet powerful tool for creating a positive mindset and nurturing the relationships that matter most. So, start today—take a moment to be thankful, and watch how it transforms your life.
+    `
   },
+  {
+    id: "5",
+    title: "Breaking Free from the Chains of Self-Doubt: A Guide to Building Confidence",
+    description:
+      "Overcome self-doubt and unlock your true potential. Learn actionable steps to boost your confidence and hear inspiring success stories of individuals who turned their self-doubt into strength.",
+    date: "15.12.2024",
+    category: "by-SoulWrites",
+    image: "/doubt.webp",
+    content: `
+      Self-doubt can be crippling—it holds us back from pursuing our dreams, limits our potential, and clouds our ability to see our true worth. We all experience moments of doubt, but it becomes problematic when we allow it to define us. The good news? It's possible to break free from self-doubt and build a lasting sense of self-confidence.
+  
+      One of the first steps in building confidence is shifting your mindset. Instead of focusing on what you lack, start acknowledging your strengths. Reflect on your achievements, big or small, and remind yourself of the qualities that make you unique. This positive reinforcement helps counter the negative self-talk that fuels doubt.
+  
+      Another powerful tool for combating self-doubt is setting small, achievable goals. When you take action and achieve something, no matter how minor it seems, it reinforces the belief in your capabilities. Each success adds to your confidence and helps you build momentum, making it easier to take on bigger challenges.
+  
+      Surrounding yourself with supportive people is also crucial. Positive relationships can uplift you and remind you of your worth, especially when your own self-perception falters. Seek out individuals who inspire and motivate you, those who believe in you even when you're struggling to believe in yourself.
+  
+      One of the most important aspects of overcoming self-doubt is learning to embrace failure as part of the journey. Everyone experiences setbacks—it's how you respond to them that matters. Instead of allowing failure to reinforce your doubts, see it as an opportunity for growth. Each mistake is a lesson that brings you closer to your goals.
+  
+      Take the story of J.K. Rowling, for example. Before she became one of the most successful authors in the world, she faced countless rejections and moments of self-doubt. Her perseverance in the face of adversity is a testament to the power of self-belief. Like her, you too have the strength to overcome obstacles and achieve your goals.
+  
+      Building confidence doesn't happen overnight. It requires consistent effort, self-compassion, and a willingness to challenge the negative beliefs that hold you back. But with time, you can break free from the chains of self-doubt and step into your true potential.
+  
+      Start today—acknowledge your strengths, take small steps toward your goals, and surround yourself with positivity. Trust in your abilities, and you'll find the confidence to achieve anything you set your mind to.
+    `
+  },
+  {
+    id: "6",
+    title: "The Power of Storytelling: How Sharing Your Story Can Heal and Inspire",
+    description:
+      "Explore how telling your story can be a powerful tool for healing and inspiring others. Sharing personal experiences can build connections, foster empathy, and encourage growth. Here’s why your story matters...",
+    date: "16.12.2024",
+    category: "by-SoulWrites",
+    image: "/storytelling.webp",
+    content: `
+      Storytelling has been a fundamental part of human culture for centuries. From ancient myths and legends to personal anecdotes, stories have the power to connect us across time and space. But beyond just entertainment or tradition, storytelling is a profound tool for healing and personal growth. When you share your story, you open up a window into your world, allowing others to see the raw, unfiltered experiences that have shaped you.
+  
+      One of the most powerful aspects of storytelling is its ability to create connections. When we tell our stories, we invite others into our lives, fostering empathy and understanding. We often discover that we are not alone in our struggles, and others have walked similar paths. These shared experiences can bridge gaps between people, no matter their background or differences, and create a sense of community.
+  
+      Storytelling is also a powerful way to heal. When we speak or write about our experiences, it allows us to process and make sense of our emotions. The act of recounting past challenges, triumphs, and losses provides a space for catharsis. It helps us release pent-up feelings, gain clarity, and see things from a new perspective. It can be an incredibly freeing experience, allowing us to let go of past pain and embrace healing.
+  
+      Furthermore, sharing your story can be a source of inspiration for others. It’s easy to feel isolated in the midst of difficulties, but when someone shares their personal journey—whether it’s overcoming adversity, achieving success, or learning important life lessons—it can spark hope and motivation in others. Your story may be the beacon of light someone else needs to keep going, to believe in themselves, or to take the first step toward change.
+  
+      But storytelling is not just about speaking your truth—it’s also about encouraging others to do the same. Vulnerability breeds vulnerability. When you share your story, you create a safe space for others to share theirs. This open exchange of experiences creates a ripple effect, where others feel empowered to speak their truth, knowing they are heard and valued. This cycle of storytelling can strengthen communities, build support systems, and nurture compassion.
+  
+      The impact of storytelling extends beyond just personal growth or connection. It can also be a tool for social change. When stories are told with the intention to raise awareness about important issues—whether it’s mental health, social justice, or personal empowerment—they can influence attitudes, challenge perceptions, and spark action. Through the power of narrative, storytelling can shine a light on problems that need attention, rally support for causes, and inspire collective efforts to bring about positive change.
+  
+      Whether you choose to write a blog, share your story on social media, or speak in front of an audience, your story matters. Every person’s experiences are valuable and worth sharing. In a world that often values perfection and curated images, storytelling offers a refreshing reminder that we are all human, with flaws, challenges, and triumphs that make us who we are.
+  
+      So, don’t hold back. Don’t be afraid to share your story. The world needs your voice. Your experiences can heal, inspire, and create connections that transcend boundaries. You never know—your story might be the key to unlocking someone else’s healing journey or inspiring them to take action in their own life. The power of storytelling is immeasurable, and it’s a gift that each of us has the ability to share.
+    `
+  },
+  {
+    id: "7",
+    title: "The Joy of Simple Things: How to Find Happiness in the Everyday",
+    description:
+      "Discover how finding joy in the simple moments can lead to greater happiness and fulfillment in life. Sometimes, the smallest things hold the most meaning.",
+    date: "28.12.2024",
+    category: "by-SoulWrites",
+    image: "/simplethings.webp",
+    content: `
+      In the hustle and bustle of daily life, we often overlook the small moments that bring true happiness. We chase big goals, milestones, and material achievements, thinking they will bring us lasting joy. However, true fulfillment often comes from the simple things that are easily taken for granted.
+  
+      The first step to embracing the joy of simplicity is slowing down. In a world full of distractions, it’s easy to miss the beauty in the ordinary. Take a moment each day to pause and appreciate the little things: the warmth of a cup of tea, the sound of birds singing in the morning, or a quiet moment with a good book. These small moments are fleeting, but they hold the power to shift our focus away from stress and towards contentment.
+  
+      Next, practice mindfulness. Being present in the moment allows us to fully experience the joy of simple things. Whether it's savoring a meal, feeling the warmth of the sun on your skin, or taking a walk through nature, being mindful helps us connect more deeply with our surroundings and appreciate the beauty in everyday life. The more you practice mindfulness, the more you’ll notice the small joys that often go unnoticed.
+  
+      Another way to find joy in simplicity is through gratitude. When we focus on what we already have rather than what we lack, we begin to see the richness in our lives. Take a moment each day to reflect on the simple blessings—family, health, a safe home, or even a good night's sleep. Gratitude brings our attention back to what matters most and fills our hearts with joy.
+  
+      Finally, simplify your environment. Decluttering your physical space can lead to a decluttered mind. When we remove excess, we create room for peace and clarity. A tidy, calm space encourages relaxation and makes it easier to appreciate the small joys of life.
+  
+      The joy of simple things is available to all of us. It’s not about grand gestures or extravagant experiences—it’s about appreciating the moments that make life meaningful. By slowing down, practicing mindfulness, expressing gratitude, and simplifying our environment, we can find happiness in the everyday and live a more fulfilling life.
+    `
+  }
 ];
 
 const SinglePage = () => {
@@ -51,12 +162,12 @@ const SinglePage = () => {
   const [comments, setComments] = useState<string[]>([]);
 
   useEffect(() => {
-    // Get stored comments from localStorage if they exist
-    const storedComments = localStorage.getItem("comments");
+    // Get stored comments for this specific post from localStorage
+    const storedComments = localStorage.getItem(`comments_${id}`);
     if (storedComments) {
       setComments(JSON.parse(storedComments));
     }
-  }, []);
+  }, [id]); // Re-fetch comments when the post ID changes
 
   const handleCommentChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     setComment(e.target.value);
@@ -68,10 +179,11 @@ const SinglePage = () => {
     // Add new comment to the list and update localStorage
     const updatedComments = [...comments, comment];
     setComments(updatedComments);
-    localStorage.setItem("comments", JSON.stringify(updatedComments));
+    localStorage.setItem(`comments_${id}`, JSON.stringify(updatedComments)); // Save comments with post ID as key
     setComment(""); // Reset the comment input field
   };
 
+  // Assuming `posts` is an array of post objects (from the context or state)
   const post = posts.find((p) => p.id === id);
 
   if (!post) {
@@ -123,16 +235,16 @@ const SinglePage = () => {
 
         {/* Display Comments */}
         <div className="mt-6">
-          <h4 className="text-xl font-semibold">Comments</h4>
+          <h4 className="text-xl font-semibold mb-2">Comments</h4>
           <div className="mt-4 space-y-4">
             {comments.length > 0 ? (
               comments.map((comment, index) => (
-                <div key={index} className="border-b pb-4">
-                  <p className="text-gray-700">{comment}</p>
+                <div key={index} className="border-b pb-4 mb-5">
+                  <p className="text-gray-700 dark:text-white ">{comment}</p>
                 </div>
               ))
             ) : (
-              <p className="text-gray-500">No comments yet.</p>
+              <p className="text-gray-500 mb-10">No comments yet.</p>
             )}
           </div>
         </div>
