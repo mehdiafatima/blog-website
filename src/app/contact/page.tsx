@@ -42,7 +42,7 @@ const ContactPage: React.FC = () => {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, delay: 0.3 }}
-          className="text-xl md:text-2xl max-w-3xl mx-auto dark:text-white lg:-mb-12"
+          className="text-xl md:text-2xl max-w-3xl mx-auto dark:text-white lg:-mb-12 text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-pink-500"
         >
           I would love to hear from you! Feel free to reach out with any questions or comments.
         </motion.p>
@@ -88,7 +88,7 @@ const ContactPage: React.FC = () => {
               />
               <button
                 type="submit"
-                className="bg-blue-500 text-white px-6 py-2 rounded-md mt-4 hover:bg-blue-600 transition"
+                className="bg-purple-600 text-white px-6 py-2 rounded-md mt-4 hover:bg-purple-600 transition"
               >
                 Send Message
               </button>
