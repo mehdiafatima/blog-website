@@ -108,7 +108,7 @@ const ContactPage: React.FC = () => {
             href="https://www.linkedin.com/in/mehdia-fatima-884506289/"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center text-blue-500 hover:text-blue-600"
+            className="inline-flex items-center text-blue-500 hover:text-purple-600"
           >
             <FaLinkedin className="text-4xl mr-2" />
             LinkedIn Profile
